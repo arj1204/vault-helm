@@ -40,7 +40,7 @@ Mozilla Public License, version 2.0
 1.7. “Larger Work”
 
      means a work that combines Covered Software with other material, in a separate
-     file or files, that is not Covered Software.
+     file or files, that is not a Covered Software.
 
 1.8. “License”
 
